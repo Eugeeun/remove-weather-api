@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Eugeeun.github.io/remove-weather-api",
+  "homepage": "https://Eugeeun.github.io/remove-weather-api/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
